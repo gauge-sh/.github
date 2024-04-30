@@ -12,6 +12,6 @@
 -->
 
 
-Welcome to [Gauge](https://gauge.sh)! We're building open source tools for developers.
+Welcome to [Gauge](http://gauge.sh)! We're building open source tools for developers.
 
 [Join our Discord!](https://discord.gg/4sm7mBeJ)
