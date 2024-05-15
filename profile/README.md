@@ -14,4 +14,4 @@
 
 Welcome to [Gauge](https://gauge.sh)! We're building open source tools for python developers.
 
-[Join our Discord!](https://discord.gg/4sm7mBeJ)
+[Join our Discord!](https://discord.gg/DKVksRtuqS)
