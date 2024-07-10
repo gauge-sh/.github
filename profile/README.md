@@ -14,4 +14,4 @@
 
 Welcome to [Gauge](https://gauge.sh)! We're building open source tools to solve the microservices/monolith dilemma.
 
-[Join our Discord!](https://discord.gg/DKVksRtuqS)
+[Join our Discord!](https://discord.gg/a58vW8dnmw)
