@@ -13,5 +13,3 @@
 
 
 Welcome to [Gauge](https://gauge.sh)! We're building open source tools to solve the microservices/monolith dilemma.
-
-[Join our Discord!](https://discord.gg/Kz2TnszerR)
