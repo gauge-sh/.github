@@ -12,4 +12,4 @@
 -->
 
 
-Welcome to [Gauge](https://gauge.sh)! We're building open source tools to solve the microservices/monolith dilemma.
+Welcome to Gauge!
