@@ -14,4 +14,4 @@
 
 Welcome to [Gauge](https://withgauge.com)!
 
-[Gauge](https://withgauge.com) helps your company show up in AI answers. [Gauge](https://withgauge.com) measures responses in AI answers over time to find opportunities to improve your AI presence.
+Agent Led Growth. Gauge helps you get recommended by agents, and written into every customer's codebase.
