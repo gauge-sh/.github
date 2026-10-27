@@ -1,5 +1,3 @@
 # Gauge
 
-Welcome! We're building dev tools to help software engineers do their jobs better. Check out what we've built so far!
-
-[Join our Discord!](https://discord.gg/nFBbpZXf)
+Agent Led Growth -- helping companies get discovered, selected, and installed by coding agents like Claude Code and Codex.
